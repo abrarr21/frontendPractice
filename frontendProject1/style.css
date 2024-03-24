@@ -91,15 +91,15 @@ img{
 }
 
 #img1 {
-    transform: translate(-50%, -50%) rotate(-25deg);
+    transform: translate(-50%, -50%) rotate(25deg);
 }
 
 #img2 {
-    transform: translate(-50%, -50%) rotate(-15deg);
+    transform: translate(-50%, -50%) rotate(15deg);
 }
 
 #img3 {
-    transform: translate(-50%, -50%) rotate(-5deg);
+    transform: translate(-50%, -50%) rotate(5deg);
 }
 
 #btm-left{
